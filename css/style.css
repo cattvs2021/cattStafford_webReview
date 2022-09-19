@@ -1,53 +1,53 @@
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 /* his is the css reset*/
 body {
-    background-color:lightcoral
+  background-color: lightcoral;
 }
 /* added a background color */
 .container {
-    width: 100%;
-    height: 100vh;
-    background-color: black;
+  width: 100%;
+  height: 100vh;
+  background-color: black;
 }
 header {
-    height: 10vh;
-    background-color: rgb(142, 48, 78);
-    display: flex;
-    align-items:center;
-    padding: 0 20px;
+  height: 10vh;
+  background-color: rgb(142, 48, 78);
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
 }
 main {
-    height: 80vh;
-    background-color: rgb(221, 192, 172);
+  height: 80vh;
+  background-color: rgb(221, 192, 172);
 }
 footer {
-    height: 10vh;
-    background-color: rgb(142, 48, 78);
+  height: 10vh;
+  background-color: rgb(142, 48, 78);
 }
 /* font-family: 'Montserrat', sans-serif;
 font-family: 'Roboto', sans-serif; */
 span {
-    font-family: 'Montserrat', sans-serif;
-    color:white;
-    font-size: 2em;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  font-size: 2em;
 }
-ul li{
-    display: inline-block;
+ul li {
+  display: inline-block;
 }
 ul li a {
-    font-family: 'Roboto', sans-serif;
-    text-decoration: none;
-    padding: 0 8px;
-    color: white;
-    text-transform: uppercase;}
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  padding: 0 8px;
+  color: white;
+  text-transform: uppercase;
+}
 ul li a:hover {
-   color: rgb(221, 192, 172);
+  color: rgb(221, 192, 172);
 }
 nav {
-    margin-left: auto;
-
+  margin-left: auto;
 }

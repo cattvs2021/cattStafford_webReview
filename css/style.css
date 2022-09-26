@@ -80,3 +80,10 @@ table, th, td {
   border: 0.125em solid white;
   border-collapse: collapse;
 }
+img.medium {
+  width: 250px;
+  height: auto;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+}
